@@ -1,0 +1,23 @@
+{
+  "name": "image-gallary-app-react",
+  "version": "1.0.0",
+  "description": "Its a image gallary app with rract",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akhilankathi/Image-gallary-app-React.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/akhilankathi/Image-gallary-app-React/issues"
+  },
+  "homepage": "https://github.com/akhilankathi/Image-gallary-app-React#readme",
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
+}
